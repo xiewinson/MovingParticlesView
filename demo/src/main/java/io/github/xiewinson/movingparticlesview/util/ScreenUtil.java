@@ -1,4 +1,4 @@
-package io.github.xiewinson.movingparticlesview;
+package io.github.xiewinson.movingparticlesview.util;
 
 import android.content.Context;
 import android.util.TypedValue;
